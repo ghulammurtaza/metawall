@@ -1,0 +1,20 @@
+<div class="footer-container">
+    <div class="footer">
+        <div class="store-switcher">
+    <label for="select-store">Select Store:</label>
+    <select id="select-store" title="Select Store" onchange="location.href=this.value">
+                        <option value="" selected="selected">Vanesa1</option>
+                    <option value="http://127.0.0.1/navesa/index.php/?___SID=U&___store=english4">Vanesa2</option>
+        </select>
+</div>
+<ul class="links">
+                        <li class="first" ><a href="http://127.0.0.1/navesa/index.php/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://127.0.0.1/navesa/index.php/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://127.0.0.1/navesa/index.php/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://127.0.0.1/navesa/index.php/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://127.0.0.1/navesa/index.php/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+        <p class="bugs">Help Us to Keep Magento Healthy - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Report All Bugs</strong></a> (ver. 1.9.2.2)</p>
+        <address>Copyright © 2014 <a href="http://www.plazathemes.com/">Plazathemes.</a> All Rights Reserved</address>
+    </div>
+</div>
