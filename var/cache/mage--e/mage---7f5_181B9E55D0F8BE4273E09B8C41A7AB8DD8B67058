@@ -1,0 +1,112 @@
+
+<form id="search_mini_form" action="http://127.0.0.1/navesa/index.php/catalogsearch/result/?___SID=U" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <div class="box-search-select">
+			<div class="search-left">
+			<select class="selectpicker"  id="cat" name="cat">
+				<option value="">All categories</option>
+									<option value="3">women</option>
+																										<option value="8">_Dresses</option>
+																											<option value="18">_&nbsp;_Cocktail</option>
+																																																		<option value="19">_&nbsp;_Day</option>
+																																																		<option value="20">_&nbsp;_Evening</option>
+																																																		<option value="21">_&nbsp;_Sports</option>
+																																																															<option value="9">_shoes</option>
+																											<option value="22">_&nbsp;_Sports</option>
+																																																		<option value="23">_&nbsp;_run</option>
+																																																		<option value="24">_&nbsp;_sandals</option>
+																																																		<option value="25">_&nbsp;_Books</option>
+																																																															<option value="10">_Handbags</option>
+																											<option value="26">_&nbsp;_Blazers</option>
+																																																		<option value="27">_&nbsp;_table</option>
+																																																		<option value="28">_&nbsp;_coats</option>
+																																																		<option value="29">_&nbsp;_kids</option>
+																																																															<option value="11">_Clothing</option>
+																											<option value="30">_&nbsp;_T-shirts</option>
+																																																		<option value="31">_&nbsp;_coats</option>
+																																																		<option value="32">_&nbsp;_Jackets </option>
+																																																		<option value="33">_&nbsp;_jeans</option>
+																																																																											<option value="4">men</option>
+																										<option value="12">_Bags</option>
+																											<option value="34">_&nbsp;_Bootees  Bags</option>
+																																																		<option value="35">_&nbsp;_Blazers</option>
+																																																															<option value="13">_Clothing</option>
+																											<option value="36">_&nbsp;_coats</option>
+																																																		<option value="37">_&nbsp;_T-shirts</option>
+																																																															<option value="14">_Lingerie</option>
+																											<option value="38">_&nbsp;_Bands</option>
+																																																		<option value="39">_&nbsp;_Furniture</option>
+																																																															<option value="42">_Handbag</option>
+																											<option value="43">_&nbsp;_Bands</option>
+																																																		<option value="44">_&nbsp;_Funiture</option>
+																																																		<option value="45">_&nbsp;_Lifestyle</option>
+																																																																											<option value="5">Footwear </option>
+																										<option value="15">_Footwear Man</option>
+																											<option value="40">_&nbsp;_Gold Ring</option>
+																																																		<option value="46">_&nbsp;_Platinum Rings</option>
+																																																		<option value="47">_&nbsp;_Silver Ring</option>
+																																																		<option value="48">_&nbsp;_Tungsten Ring</option>
+																																																															<option value="16">_Footwear Womens</option>
+																											<option value="41">_&nbsp;_Bands Gold</option>
+																																																		<option value="49">_&nbsp;_Platinum Bands</option>
+																																																		<option value="50">_&nbsp;_Silver Bands</option>
+																																																		<option value="51">_&nbsp;_Tungsten Bands</option>
+																																																															<option value="52">_Rings</option>
+																											<option value="53">_&nbsp;_Platinum Bracelets</option>
+																																																		<option value="54">_&nbsp;_Gold Ring</option>
+																																																		<option value="55">_&nbsp;_Silver Ring</option>
+																																																		<option value="56">_&nbsp;_Diamond Bracelets</option>
+																																																															<option value="57">_Bands</option>
+																											<option value="58">_&nbsp;_Platinum Necklaces </option>
+																																																		<option value="59">_&nbsp;_Gold Ring</option>
+																																																		<option value="60">_&nbsp;_Silver Ring</option>
+																																																		<option value="61">_&nbsp;_Sunglasses</option>
+																																																																											<option value="6">Jewellery</option>
+																										<option value="17">_Rings</option>
+																											<option value="62">_&nbsp;_Coats & Jackets</option>
+																																																		<option value="63">_&nbsp;_Blazers</option>
+																																																		<option value="64">_&nbsp;_Jackets</option>
+																																																		<option value="65">_&nbsp;_Raincoats</option>
+																																																															<option value="66">_Dresses</option>
+																											<option value="67">_&nbsp;_Ankle Boots</option>
+																																																		<option value="68">_&nbsp;_Footwear </option>
+																																																		<option value="69">_&nbsp;_Clog sandals</option>
+																																																		<option value="70">_&nbsp;_Combat Boots</option>
+																																																															<option value="71">_Accessories</option>
+																											<option value="72">_&nbsp;_Bootees Bags</option>
+																																																		<option value="73">_&nbsp;_Blazers</option>
+																																																		<option value="74">_&nbsp;_Jackets</option>
+																																																		<option value="75">_&nbsp;_Shoes</option>
+																																																															<option value="76">_Top</option>
+																											<option value="77">_&nbsp;_Briefs</option>
+																																																		<option value="78">_&nbsp;_Camis</option>
+																																																		<option value="79">_&nbsp;_Nightwear</option>
+																																																		<option value="80">_&nbsp;_Shapewear</option>
+																																																																											<option value="7">Accessories</option>
+																										<option value="168">_Footwear </option>
+																																								<option value="169">_Diamond </option>
+																																								<option value="170">_Jewellery</option>
+																																								<option value="171">_Holiday & Gifts</option>
+																																																				<option value="81">Electronic</option>
+																										<option value="172">_Clog sandals</option>
+																																								<option value="173">_Combat Boots</option>
+																																								<option value="174">_Coats & Jackets</option>
+																																								<option value="175">_Camera & Photo</option>
+																																																				<option value="82">Camera & Photo</option>
+																																						<option value="83">Holiday Supplies & Gifts</option>
+																																						<option value="84">Toy & Hobbies</option>
+																																				</select>
+			
+			<input id="search" type="text" name="q" class="input-text" />
+			</div>
+				<button type="submit" title="Search" class="button"><span><span><i class="fa fa-search"></i>Search </span></span></button>
+			<!--<div id="search_autocomplete" class="search-autocomplete"></div>-->
+		</div>	
+    </div>
+</form>
+<script type="text/javascript">
+    jQuery('.selectpicker').selectpicker({
+        'selectedText': 'cat'
+    });
+</script>

@@ -1,0 +1,54 @@
+<div class="f-col f-col-1 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>OUR SERVICES</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="http://127.0.0.1/navesa/index.php/about-magento-demo-store">About us</a></li>
+<li><a href="#">Order History</a></li>
+<li><a href="http://127.0.0.1/navesa/index.php/privacy-policy-cookie-restriction-mode">Returns</a></li>
+<li><a href="http://127.0.0.1/navesa/index.php/customer-service">Custom Service</a></li>
+<li class="last"><a href="http://127.0.0.1/navesa/index.php/catalogsearch/term/popular">Terms &amp; Condition</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col-5 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>our support</h3>
+</div>
+<div class="footer-static-content ">
+<ul>
+<li class="first"><a href="http://127.0.0.1/navesa/index.php/catalog/seo_sitemap/category">Sitemap</a></li>
+<li><a href="http://127.0.0.1/navesa/index.php/privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+<li><a href="http://127.0.0.1/navesa/index.php/customer/account/index">Your Account</a></li>
+<li><a href="http://127.0.0.1/navesa/index.php/catalogsearch/advanced">Advanced Search</a></li>
+<li class="last"><a href="http://127.0.0.1/navesa/index.php/contacts">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col-6 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>MY ACCOUNT</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="http://127.0.0.1/navesa/index.php/customer/account/index">My Account</a></li>
+<li><a href="#">Order History</a></li>
+<li><a href="#">Returns</a></li>
+<li><a href="#">Specials</a></li>
+<li class="last"><a href="http://127.0.0.1/navesa/index.php/catalog/seo_sitemap/category">Site Map</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col-7 col-sm-6 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>Contact us</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><em class="fa fa-map-marker">&nbsp;</em><span>Addresss:</span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+<li><em class="fa fa-envelope">&nbsp;</em><span>Email:</span>info@plazathemes.com</li>
+<li class="last"><em class="fa fa-phone">&nbsp;</em><span>Phone:</span>+123.456.789</li>
+</ul>
+</div>
+</div>

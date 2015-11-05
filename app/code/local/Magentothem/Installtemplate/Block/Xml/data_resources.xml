@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ma_vanesa4>
+    <resources>
+        <resource>
+            <title>Home page ma_vanesa4</title>
+            <identifier>ma_vanesa4_home</identifier>
+            <root_template>one_column</root_template>
+				<content><![CDATA[
+					<div class="home-content">{{block type="cms/block" block_id="banner_home_content_2"}} {{widget type="categorytabsliders/advanced" title="Fashion" identify="fashion" cat_ids="3,8,9,10,26,27,11,30,31,32,33" template="magentothem/categorytabsliders/categorytabsliders.phtml" products_count="16" width_thumbnail="270" height_thumbnail="364"}}{{widget type="categorytabsliders/advanced" title="Laptop & Headphone" identify="laptop-headphone" cat_ids="4,5,6,12,13,14,42,15,16,17" template="magentothem/categorytabsliders/categorytabsliders.phtml" products_count="16" width_thumbnail="270" height_thumbnail="364"}}{{widget type="categorytabsliders/advanced" title="Beauty & Laptop" identify="beauty-latop" cat_ids="66,67,68,69,70,71,72,73,74" template="magentothem/categorytabsliders/categorytabsliders.phtml" products_count="16" width_thumbnail="270" height_thumbnail="364"}}&nbsp;{{block type="bestsellerproductslider/bestsellerproductslider" name="bestsellerproductslider" template="magentothem/bestsellerproductslider/bestsellerproductslider.phtml" }} {{block type="newproductslider/newproductslider" name="newproductslider" template="magentothem/newproductslider/newproductslider.phtml" }} {{block type="catlist/catlist" name="catlist" before="-" template="magentothem/catlist/catlist.phtml" }}</div>
+				]]></content>
+				<sort_order>1</sort_order>
+            <is_active>1</is_active>
+        </resource>
+    </resources>
+</ma_vanesa4>
